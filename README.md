@@ -21,6 +21,6 @@ The book is written for both beginners and intermediates with little or no exper
 ✓ No prior knowledge about programming is required.
 
 ## What the reader will learn and be able to accomplish
-✓ By the end of this book, the reader will be comfortable, or at least familiar, with most concepts in core Zen.
-✓ The challenge problems given at the end of each chapter is designed to increase the ability of the reader to express logical thoughts as Zen code.
-✓ Readers from different programming paradigms will be capable of perceiving problems in terms of objects and exploit the perks of object-oriented programming.
+✓ By the end of this book, the reader will be comfortable, or at least familiar, with most concepts in core Zen.  
+✓ The challenge problems given at the end of each chapter is designed to increase the ability of the reader to express logical thoughts as Zen code.  
+✓ Readers from different programming paradigms will be capable of perceiving problems in terms of objects and exploit the perks of object-oriented programming.  
