@@ -4,8 +4,8 @@ Written by the inventor of the language, The Zen Programming Language Manual off
 
 ## Why should you choose this book?
 
-• More than 100 examples with explanation that describe the techniques illustrated.
-• Each chapter begins with a list of skills covered in the chapter.
-• "Frequently Asked Question" sections scattered across the book extends your knowledge with information and helpful tips.
-• Challenging exercises that help you learn to apply and sharpen your skills.
-• It is 100% free for non-commercial purposes.
+• More than 100 examples with explanation that describe the techniques illustrated.  
+• Each chapter begins with a list of skills covered in the chapter.  
+• "Frequently Asked Question" sections scattered across the book extends your knowledge with information and helpful tips.  
+• Challenging exercises that help you learn to apply and sharpen your skills.  
+• It is 100% free for non-commercial purposes.  
