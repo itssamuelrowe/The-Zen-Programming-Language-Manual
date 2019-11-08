@@ -24,3 +24,10 @@ The book is written for both beginners and intermediates with little or no exper
 ✓ By the end of this book, the reader will be comfortable, or at least familiar, with most concepts in core Zen.  
 ✓ The challenge problems given at the end of each chapter is designed to increase the ability of the reader to express logical thoughts as Zen code.  
 ✓ Readers from different programming paradigms will be capable of perceiving problems in terms of objects and exploit the perks of object-oriented programming.  
+
+## Book Cover
+
+I would like to thank the Freepik community for the mesmerizing vector image used
+as the cover of this book.
+
+<a href="https://www.freepik.com/free-photos-vectors/banner">Please visit this link for more amazing art work!</a>
