@@ -119,6 +119,7 @@
  * Catching Exceptions: Using the Catch Clause
  * General Catch Clause: Handling All Exceptions in One Place
  * Using the Finally Clause
+ * Working with the With Statement
  * Throwing Your Own Exceptions
 
 ## Chapter 15: Packages
