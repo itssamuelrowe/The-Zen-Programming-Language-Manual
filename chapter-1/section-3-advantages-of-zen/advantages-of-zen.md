@@ -1,3 +1,5 @@
+# Advantages of Zen
+
 ## Zen is Simple
 
 Zen is easy to learn and use. It has a clear syntax. With a combination of
