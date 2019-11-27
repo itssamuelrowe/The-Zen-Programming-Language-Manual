@@ -2,8 +2,9 @@ Identifiers are the names you give to variables, methods, classes, annotations
 and enumerations. Unlike literals, identifiers only help you reference something.
 
 The program shown in the hello world example shown in the previous section
-uses two identifiers.
+uses three identifiers.
     * `main`
+    * `arguments`
     * `print`
 
 * Identifiers are case sensitive. For example, `ArrayList` with uppercase `A`
